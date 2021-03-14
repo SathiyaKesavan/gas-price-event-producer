@@ -1,0 +1,6 @@
+com/price/gas/GasPriceEventProducerApplication.class
+com/price/gas/GasProducer.class
+com/price/gas/model/GasPrice.class
+com/price/gas/GasProducerScheduler.class
+com/price/gas/service/GasPriceService.class
+com/price/gas/model/GasPrices.class
