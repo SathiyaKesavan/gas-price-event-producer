@@ -35,6 +35,7 @@
 			<artifactId>spring-kafka-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- new relic dependency -->
 		<dependency>
 			<groupId>com.newrelic.agent.java</groupId>
 			<artifactId>newrelic-java</artifactId>
